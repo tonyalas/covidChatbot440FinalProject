@@ -3,7 +3,7 @@ A final project for COMP-4400 Principles of Programming Languages that consists 
 
 Every user response should be formatted like so:
 
-procName(userResponse).      (where the period is necessary)
+`procName(userResponse).`      (where the period is necessary)
 
 An example of this would be if the bot asks for your name and the user can respond with:
 
