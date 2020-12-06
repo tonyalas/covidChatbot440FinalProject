@@ -12,3 +12,5 @@ name(tony).
 For some responses, the user will need to enter a '.' (period) in order to proceed to the next question.
 
 This program was written with SWI-Prolog in mind, so it works best if you have the SWI-Prolog application (either on Windows or MAC) and consult the file from within the program. OR the user can run from the terminal application of their choice. 
+
+NOTE: demonstration pictures of the program can be found within the alas_Documentation.pdf file, as well as a more in-depth explanation of what the program does and how it works.
